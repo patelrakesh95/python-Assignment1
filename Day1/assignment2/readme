@@ -1,0 +1,8 @@
+1. file name: accessMod.py
+2. Add data members of value number, character, boolean, String, floating
+3. Data member containing numbers without decimal point should be accessible from all objects(public).
+4. Data member containing numbers with decimal point should be accessible within the package and inside the subclass(protected).
+5. The String should be accessible only inside the class(private).
+6. Make a method to output the value of all data members. (method name: printProperties())
+7. Import the module in testAccessMod.py and use the method to print the value of properties
+8. Try to access all the variables in the testAccessMod.py
